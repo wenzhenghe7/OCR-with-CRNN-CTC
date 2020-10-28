@@ -1,5 +1,5 @@
 # OCR-with-CRNN-CTC
-For this task, I'm going to implement a Connectionist temporal classification(CTC) based convolutional recurrent neural netowrk(CRNN) ocr model that transcripts english handwritten images to strings.
+For this task, I'm going to implement a Connectionist temporal classification(CTC) based convolutional recurrent neural network(CRNN) ocr model that transcripts english handwritten images to strings.
 
 Steps:
 1. Build a data pipeline
